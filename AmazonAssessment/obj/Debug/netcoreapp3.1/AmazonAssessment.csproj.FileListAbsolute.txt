@@ -1,0 +1,13 @@
+C:\Users\Eros\source\repos\AmazonAssessment\AmazonAssessment\bin\Debug\netcoreapp3.1\AmazonAssessment.exe
+C:\Users\Eros\source\repos\AmazonAssessment\AmazonAssessment\bin\Debug\netcoreapp3.1\AmazonAssessment.deps.json
+C:\Users\Eros\source\repos\AmazonAssessment\AmazonAssessment\bin\Debug\netcoreapp3.1\AmazonAssessment.runtimeconfig.json
+C:\Users\Eros\source\repos\AmazonAssessment\AmazonAssessment\bin\Debug\netcoreapp3.1\AmazonAssessment.runtimeconfig.dev.json
+C:\Users\Eros\source\repos\AmazonAssessment\AmazonAssessment\bin\Debug\netcoreapp3.1\AmazonAssessment.dll
+C:\Users\Eros\source\repos\AmazonAssessment\AmazonAssessment\bin\Debug\netcoreapp3.1\AmazonAssessment.pdb
+C:\Users\Eros\source\repos\AmazonAssessment\AmazonAssessment\obj\Debug\netcoreapp3.1\AmazonAssessment.csprojAssemblyReference.cache
+C:\Users\Eros\source\repos\AmazonAssessment\AmazonAssessment\obj\Debug\netcoreapp3.1\AmazonAssessment.AssemblyInfoInputs.cache
+C:\Users\Eros\source\repos\AmazonAssessment\AmazonAssessment\obj\Debug\netcoreapp3.1\AmazonAssessment.AssemblyInfo.cs
+C:\Users\Eros\source\repos\AmazonAssessment\AmazonAssessment\obj\Debug\netcoreapp3.1\AmazonAssessment.csproj.CoreCompileInputs.cache
+C:\Users\Eros\source\repos\AmazonAssessment\AmazonAssessment\obj\Debug\netcoreapp3.1\AmazonAssessment.dll
+C:\Users\Eros\source\repos\AmazonAssessment\AmazonAssessment\obj\Debug\netcoreapp3.1\AmazonAssessment.pdb
+C:\Users\Eros\source\repos\AmazonAssessment\AmazonAssessment\obj\Debug\netcoreapp3.1\AmazonAssessment.genruntimeconfig.cache
