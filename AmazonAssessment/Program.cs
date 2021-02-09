@@ -26,7 +26,60 @@ namespace AmazonAssessment
 
         public static List<string> doesCircleExist(List<string> commands)
         {
-            
+            int commandcount = commands.Count();
+            List<string> results = new List<string>();
+            for (int i = 0; i < commandcount; i++)
+            {
+                int x = 0, y = 0;
+                int dir = 0; // 0:North 1:East 2:South 3:West
+                int k = 0;
+                // Repeat the commands 4 times
+                while (k < 4)
+                {
+                    for (int j = 0; j < commands[i].Length; j++)
+                    {
+                        // Process commands
+                        switch (commands[i][j])
+                        {
+                            case 'G':
+                                switch (dir)
+                                {
+                                    case 0:
+                                        y++;
+                                        break;
+                                    case 1:
+                                        x++;
+                                        break;
+                                    case 2:
+                                        y--;
+                                        break;
+                                    case 3:
+                                        x--;
+                                        break;
+                                    default:
+                                        break;
+                                }
+                                break;
+                            // Change the forward direction
+                            case 'L':
+                                dir = (dir == 0) ? 3 : (dir - 1);
+                                break;
+                            case 'R':
+                                dir = (dir == 3) ? 0 : (dir + 1);
+                                break;
+                            default:
+                                break;
+                        }
+                    }
+                    k ++;
+                }
+
+                if (x == 0 && y == 0)
+                    results.Add("YES");
+                else
+                results.Add("NO");
+            }
+            return results;
         }
 
     }
